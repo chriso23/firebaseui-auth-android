@@ -1,5 +1,5 @@
-# FirebaseUI for Auth
-
+FirebaseUI Authentication
+-----------------------
 FirebaseUI is an open-source library that offers simple,
 customizable UI bindings on top of the core
 [Firebase](https://firebase.google.com) SDKs. It aims to eliminate boilerplate
